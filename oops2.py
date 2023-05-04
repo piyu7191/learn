@@ -7,9 +7,9 @@ class Vehicle:
 
 bus, car, train, truck, ship = Vehicle(), Vehicle(), Vehicle(), Vehicle(), Vehicle()
 vehicles = [bus, car, train, truck, ship]
-bus.Fare(6)
+bus.Fare(15)
 car.Fare(5)
-train.Fare(65)
+train.Fare(60)
 truck.Fare(50)
 ship.Fare(70)
 
